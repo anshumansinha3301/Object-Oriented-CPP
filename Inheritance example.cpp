@@ -1,7 +1,7 @@
 // C++ program to demonstrate how to inherit a class
 #include <iostream>
 using namespace std;
-
+  
 // Base class that is to be inherited
 class Parent {
 public:
